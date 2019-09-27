@@ -1,4 +1,4 @@
-# The Ur-Quan Masters MegaMod
+## The Ur-Quan Masters MegaMod
 A fork of The Ur-Quan Masters with added options, cheats, enhancements, and other modifications.
 
 ## Changes from the original
